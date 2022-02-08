@@ -37,20 +37,15 @@ I've done my Bachelor Of Technology in Electronics & Communication Engineering.
 
 <!-- BLOG-POST-LIST:START -->
 
-https://chaudharysrasthy1528.medium.com/big-data-in-big-companies-99b86ccc5c1a
+- [Big Data in Big Companies](https://chaudharysrasthy1528.medium.com/big-data-in-big-companies-99b86ccc5c1a)
 
-https://chaudharysrasthy1528.medium.com/the-amazing-ways-google-uses-artificial-intelligence-and-machine-learning-74bb2ea201d9
+- [How Google Uses AI/ML](https://chaudharysrasthy1528.medium.com/the-amazing-ways-google-uses-artificial-intelligence-and-machine-learning-74bb2ea201d9)
 
-https://chaudharysrasthy1528.medium.com/kubernetes-and-real-world-use-cases-6e2e806448ec
+- [AWS SQS and NASA Integration](https://chaudharysrasthy1528.medium.com/aws-sqs-and-nasa-integration-a2ab7e0757a0)
 
-https://chaudharysrasthy1528.medium.com/aws-sqs-and-nasa-integration-a2ab7e0757a0
+- [TCP/IP routing gateways](https://chaudharysrasthy1528.medium.com/tcp-ip-routing-gateways-a6d83b1ac4b2)
 
-https://chaudharysrasthy1528.medium.com/kubernetes-and-openshift-d143f85b167
-
-https://chaudharysrasthy1528.medium.com/tcp-ip-routing-gateways-a6d83b1ac4b2
-
-https://chaudharysrasthy1528.medium.com/k-means-clustering-and-its-use-case-in-the-security-domain-fa66f341c67
-
+- [K-Means Clustering and its usecase in security domain](https://chaudharysrasthy1528.medium.com/k-means-clustering-and-its-use-case-in-the-security-domain-fa66f341c67)
 
 <!-- BLOG-POST-LIST:END -->
 
