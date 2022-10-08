@@ -21,7 +21,6 @@ I've done my Bachelor Of Technology in Electronics & Communication Engineering.
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/srasthy-chaudhary/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://chaudharysrasthy1528.medium.com) 
 
-
 <br />
 
 ### 📕 Latest Blog Posts
@@ -39,5 +38,8 @@ I've done my Bachelor Of Technology in Electronics & Communication Engineering.
 - [K-Means Clustering and its usecase in security domain](https://chaudharysrasthy1528.medium.com/k-means-clustering-and-its-use-case-in-the-security-domain-fa66f341c67)
 
 <!-- BLOG-POST-LIST:END -->
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=srasthychaudhary&theme=radical&no-frame=false&no-bg=true&margin-w=0)
 
 
