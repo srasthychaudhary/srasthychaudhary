@@ -1,5 +1,4 @@
 ### Hello, 👋 Srasthy here ...
-[![Website](https://img.shields.io/website?label=chaudharysrasthy1528.medium.com&style=for-the-badge&url=https%3A%2F%2Fchaudharysrasthy1528.medium.com)](https://chaudharysrasthy1528.medium.com/)
 
 ---
 
@@ -19,19 +18,11 @@ I've done my Bachelor Of Technology in Electronics & Communication Engineering.
 
 ---
 
-### `Connect with me:`
+### 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/srasthy-chaudhary/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://chaudharysrasthy1528.medium.com) 
 
-<a href="https://chaudharysrasthy1528.medium.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<a href="https://www.linkedin.com/in/srasthy-chaudhary/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
 
 <br />
-
-
----
 
 ### 📕 Latest Blog Posts
 
