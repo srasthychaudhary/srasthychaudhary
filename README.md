@@ -40,11 +40,4 @@ I've done my Bachelor Of Technology in Electronics & Communication Engineering.
 
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://chaudharysrasthy1528.medium.com/)
-
----
-
-
-[website]: https://chaudharysrasthy1528.medium.com/
-[linkedin]: https://www.linkedin.com/in/srasthy-chaudhary-39417118a/
 
