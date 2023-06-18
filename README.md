@@ -29,11 +29,11 @@ I've done my Bachelor Of Technology in Electronics & Communication Engineering.
 
 - [Deploying Multi-Node Kubernetes Cluster on AWS Using Ansible Automation](https://chaudharysrasthy1528.medium.com/deploying-multi-node-kubernetes-cluster-on-aws-using-ansible-automation-bb03183b54f9)
 
-- [Linux Live Terminal App]([https://chaudharysrasthy1528.medium.com/the-amazing-ways-google-uses-artificial-intelligence-and-machine-learning-74bb2ea201d9](https://chaudharysrasthy1528.medium.com/linux-live-terminal-app-f04ca69aeeb7))
+- [Linux Live Terminal App](https://chaudharysrasthy1528.medium.com/linux-live-terminal-app-f04ca69aeeb7)
 
 - [Integrate WordPress with AWS RDS](https://chaudharysrasthy1528.medium.com/integrate-wordpress-with-aws-rds-ebd8de24f807)
 
-- [TCP/IP routing gateways](https://chaudharysrasthy1528.medium.com/tcp-ip-routing-gateways-a6d83b1ac4b2)
+- [Networking Ping Pong](https://chaudharysrasthy1528.medium.com/networking-ping-pong-4a9e7bd362d6)
 
 - [K-Means Clustering and its usecase in security domain](https://chaudharysrasthy1528.medium.com/k-means-clustering-and-its-use-case-in-the-security-domain-fa66f341c67)
 
