@@ -27,9 +27,9 @@ I've done my Bachelor Of Technology in Electronics & Communication Engineering.
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Deploying Multi-Node Kubernetes Cluster on AWS Using Ansible Automation]([https://chaudharysrasthy1528.medium.com/big-data-in-big-companies-99b86ccc5c1a](https://chaudharysrasthy1528.medium.com/deploying-multi-node-kubernetes-cluster-on-aws-using-ansible-automation-bb03183b54f9))
+- [Deploying Multi-Node Kubernetes Cluster on AWS Using Ansible Automation]([https://chaudharysrasthy1528.medium.com/big-data-in-big-companies-99b86ccc5c1a](https://chaudharysrasthy1528.medium.com/deploying-multi-node-kubernetes-cluster-on-aws-using-ansible-automation-bb03183b54f9)
 
-- [How Google Uses AI/ML](https://chaudharysrasthy1528.medium.com/the-amazing-ways-google-uses-artificial-intelligence-and-machine-learning-74bb2ea201d9)
+- [Linux Live Terminal App]([https://chaudharysrasthy1528.medium.com/the-amazing-ways-google-uses-artificial-intelligence-and-machine-learning-74bb2ea201d9](https://chaudharysrasthy1528.medium.com/linux-live-terminal-app-f04ca69aeeb7))
 
 - [AWS SQS and NASA Integration](https://chaudharysrasthy1528.medium.com/aws-sqs-and-nasa-integration-a2ab7e0757a0)
 
