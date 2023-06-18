@@ -35,7 +35,7 @@ I've done my Bachelor Of Technology in Electronics & Communication Engineering.
 
 - [Networking Ping Pong](https://chaudharysrasthy1528.medium.com/networking-ping-pong-4a9e7bd362d6)
 
-- [K-Means Clustering and its usecase in security domain](https://chaudharysrasthy1528.medium.com/k-means-clustering-and-its-use-case-in-the-security-domain-fa66f341c67)
+- [Multi-Cloud Kubernetes Setup Using Ansible and Terraform](https://chaudharysrasthy1528.medium.com/multi-cloud-kubernetes-setup-using-ansible-and-terraform-a152791790b9)
 
 <!-- BLOG-POST-LIST:END -->
 
